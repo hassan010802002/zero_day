@@ -1,1 +1,1 @@
-prints the name, version and other details about the current machine and the operating system.
+Linux uname command just prints the core operating system name.
